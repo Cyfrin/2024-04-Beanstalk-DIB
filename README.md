@@ -1,6 +1,6 @@
 <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/basin/basin(green)-512x512.png" alt="Basin logo" align="right" width="120" />
 
-# Basin Codehawks
+# Beanstalk: Dive into Basin
 
 ## Contest Details
 
