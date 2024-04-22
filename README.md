@@ -1,4 +1,4 @@
-<img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/basin/basin(green)-512x512.png" alt="Basin logo" align="right" width="120" />
+<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/dkpeqjkgetkxsga9v5q6?_a=BATAUVAA0" alt="Basin logo" align="centre" width="20%" />
 
 # Beanstalk: Dive into Basin
 
