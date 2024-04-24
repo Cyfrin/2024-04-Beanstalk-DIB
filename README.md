@@ -73,6 +73,12 @@ Tokens:
 
 ## Setup
 
+```bash
+git clone https://github.com/Cyfrin/2024-04-Beanstalk-DIB
+cd 2024-04-Beanstalk-DIB
+code .
+```
+
 This repository uses Foundry as a smart contract development toolchain.
 
 See the [Foundry Docs](https://book.getfoundry.sh/) for more info on installation and usage.
