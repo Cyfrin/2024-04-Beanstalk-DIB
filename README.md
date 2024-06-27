@@ -1,15 +1,14 @@
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_120,w_120/f_auto/v1/company/dkpeqjkgetkxsga9v5q6?_a=BATAUVAA0" alt="Basin logo" align="right" width="120" />
-
 # Beanstalk: Dive into Basin
 
-## Contest Details
+[//]: # (contest-details-open)
 
-### Prize Pool
+## Contest Details
 
 - Total Pool - 12,000
 - H/M - $10,000
 - Low - $1,000
 - Community Judging - $1,000
+
 - Starts: Monday, April 22, 2024
 - Ends: Monday, April 29, 2024
 
@@ -44,6 +43,10 @@ More documentation on Basin and Multi Flow here:
 
 The only "actors" in the context of Basin are traders (takers) and liquidity providers (makers), as with any decentralized exchange. In a sense, external protocols that consume data stored in Pumps (like Multi Flow) could be considered another actor.
 
+[//]: # (contest-details-close)
+
+[//]: # (scope-open)
+
 ## Scope
 
 The following contracts are in scope of this audit:
@@ -71,7 +74,11 @@ Tokens:
 
 - ERC-20 (Any ERC-20 tokens can be traded in Wells)
 
-## Setup
+[//]: # (scope-close)
+
+[//]: # (getting-started-open)
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Cyfrin/2024-04-Beanstalk-DIB
@@ -131,6 +138,10 @@ To run slither:
 - `python3 -m pip install slither-analyzer`
 - `slither .`
 
+[//]: # (getting-started-close)
+
+[//]: # (known-issues-open)
+
 ## Known Issues
 
 All findings in the following audit reports:
@@ -141,3 +152,5 @@ All findings in the following audit reports:
 - All bug reports from the Immunefi program listed [here](https://community.bean.money/bug-reports).
 
 Please find additional Known Issues as Identified by LightChaser [here](https://github.com/Cyfrin/2024-04-Beanstalk-DIB/issues/2).
+
+[//]: # (known-issues-close)
