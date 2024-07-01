@@ -1,7 +1,5 @@
 # Beanstalk: Dive into Basin
 
-[//]: # (contest-details-open)
-
 ## Contest Details
 
 - Total Pool - 12,000
@@ -17,6 +15,8 @@
 - nSLOC: 479
 - Complexity Score: 945
 - $/nSLOC: $25.05
+
+[//]: # (contest-details-open)
 
 ## About
 
